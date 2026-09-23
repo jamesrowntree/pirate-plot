@@ -1,0 +1,8 @@
+{
+  "id": "com.pirateagency.pirateplot",
+  "version": "1.0.0",
+  "manifestVersion": "0.1",
+  "name": "Pirate Plot",
+  "author": "Example Corp",
+  "description": "__PACKAGE_NAME__ packaged Tableau extension"
+}
